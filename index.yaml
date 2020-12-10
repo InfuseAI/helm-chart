@@ -12,6 +12,15 @@ entries:
     version: 0.1.0
   primehub:
   - apiVersion: v1
+    appVersion: v3.2.0-rc.2
+    created: "2020-12-10T04:00:46.128226676Z"
+    description: Machine learning platform for enterprises.
+    digest: 3076c20574be865382035b5bcc73eb183d2723678a56981839cd4938ff323bf9
+    name: primehub
+    urls:
+    - https://charts.infuseai.io/primehub-3.2.0-rc.2.tgz
+    version: 3.2.0-rc.2
+  - apiVersion: v1
     appVersion: v3.2.0-rc.1
     created: "2020-12-01T08:53:38.543879251Z"
     description: Machine learning platform for enterprises.
@@ -144,4 +153,4 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-2.7.0-rc.1.tgz
     version: 2.7.0-rc.1
-generated: "2020-12-01T08:53:38.528911064Z"
+generated: "2020-12-10T04:00:46.113108884Z"
