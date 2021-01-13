@@ -192,11 +192,11 @@ entries:
   primehub-grafana-dashboard-basic:
   - apiVersion: v1
     appVersion: v1.0.0
-    created: "2021-01-13T12:26:55.628232247Z"
+    created: "2021-01-13T12:32:52.010133991Z"
     description: Primehub Grafana Dashboard Basic
-    digest: d52baa3d73e36c997da36be85e959f850b0d48ec4ab03901b045ba418cd9105e
+    digest: ee4ecc0be11785927a735b99ce6345cca71777406257fb5268350af5d75116ed
     name: primehub-grafana-dashboard-basic
     urls:
     - https://charts.infuseai.io/primehub-grafana-dashboard-basic-1.0.0.tgz
     version: 1.0.0
-generated: "2021-01-13T12:26:55.115898897Z"
+generated: "2021-01-13T12:32:52.00708768Z"
