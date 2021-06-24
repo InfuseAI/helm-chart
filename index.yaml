@@ -3,9 +3,9 @@ entries:
   aws-ecr-credential:
   - apiVersion: v1
     appVersion: 1.5.0
-    created: "2021-06-24T20:41:30.366828+08:00"
+    created: "2021-06-24T20:48:55.671236+08:00"
     description: This Chart seemlessly integrates Kubernetes with AWS ECR
-    digest: 6f15b90b2e5578950ff5a04574aeacb99a1602e02e96176f74d24b097a237c98
+    digest: 1f6b102502457cea54f1ec8d7e0ef4a03750816da82e63f688187a1511ae3393
     keywords:
     - aws ecr
     - imagePullSecrets
@@ -384,4 +384,4 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-grafana-dashboard-basic-1.0.0.tgz
     version: 1.0.0
-generated: "2021-06-24T20:41:30.334871+08:00"
+generated: "2021-06-24T20:48:55.670856+08:00"
