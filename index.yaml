@@ -42,6 +42,15 @@ entries:
     version: 0.4.0
   primehub:
   - apiVersion: v1
+    appVersion: v3.8.0
+    created: "2021-09-16T04:36:59.255975652Z"
+    description: Machine learning platform for enterprises.
+    digest: 32b543f99ab40d65ba26ad3c509def396f5e141f2c124a3ce9a31e1510b9bdd2
+    name: primehub
+    urls:
+    - https://charts.infuseai.io/primehub-3.8.0.tgz
+    version: 3.8.0
+  - apiVersion: v1
     appVersion: v3.8.0-rc.1
     created: "2021-09-08T04:21:29.950811783Z"
     description: Machine learning platform for enterprises.
@@ -519,4 +528,4 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-grafana-dashboard-basic-1.0.0.tgz
     version: 1.0.0
-generated: "2021-09-08T04:21:29.93624386Z"
+generated: "2021-09-16T04:36:59.235098264Z"
