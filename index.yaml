@@ -87,7 +87,7 @@ entries:
     - https://charts.infuseai.io/primehub-3.9.0-rc.1.tgz
     version: 3.9.0-rc.1
   - apiVersion: v1
-    appVersion: v3.9.0
+    appVersion: v3.9.0-aws.1
     created: "2021-10-28T02:47:45.66556594Z"
     description: Machine learning platform for enterprises.
     digest: b88ef9c7ecbfb3079660c4105f130b0e960fbd3e426121888c91c039d173a004
