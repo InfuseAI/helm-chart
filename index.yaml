@@ -51,6 +51,15 @@ entries:
     - https://charts.infuseai.io/primehub-3.11.0.tgz
     version: 3.11.0
   - apiVersion: v1
+    appVersion: v3.11.0-rc.1
+    created: "2022-02-16T07:06:53.652742367Z"
+    description: Machine learning platform for enterprises.
+    digest: 65ce9b0b3de333987e383ef081b0f5d6b3dacd5eecce0d98ebc0e016fceca93f
+    name: primehub
+    urls:
+    - https://charts.infuseai.io/primehub-3.11.0-rc.1.tgz
+    version: 3.11.0-rc.1
+  - apiVersion: v1
     appVersion: v3.10.1
     created: "2021-12-29T06:56:20.677428178Z"
     description: Machine learning platform for enterprises.
@@ -690,4 +699,4 @@ entries:
     urls:
     - https://charts.infuseai.io/primehub-grafana-dashboard-basic-1.0.0.tgz
     version: 1.0.0
-generated: "2022-02-16T06:06:49.767251897Z"
+generated: "2022-02-16T07:06:53.633283399Z"
